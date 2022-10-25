@@ -1,0 +1,22 @@
+{
+  "name": "server-side",
+  "version": "1.0.0",
+  "description": "\"This is a practise project for a personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-maruf9270.git"
+  },
+  "author": "Maruf Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-maruf9270/issues"
+  },
+  "homepage": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-maruf9270#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
