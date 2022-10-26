@@ -1,0 +1,32 @@
+[
+    {"id":"01",
+     "c_name":"HTML-5",
+     "c_details":"This is Html tutorial"
+    },
+
+     {"id":"02",
+     "c_name":"CSS-3",
+     "c_details":"This is Javascript tutorial"
+    },
+
+     {"id":"03",
+     "c_name":"Javascript",
+     "c_details":"This is Javascript tutorial"
+    },
+
+     {"id":"04",
+     "c_name":"TailWInd",
+     "c_details":"This is Tailwind tutorial"
+    },
+    {
+        "id":"05",
+        "c_name":"Bootstrap",
+        "c_details":"This is Bootstrap tutorial"
+    },
+    {
+        "id":"06",
+        "c_name":"React",
+        "c_details": "This is React tutorial"
+    }
+    
+]
