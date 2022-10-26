@@ -1,5 +1,7 @@
 const express = require('express');
 const app= express();
+const cors = require('cors')
+app.use(cors());
 const Port = process.env.PORT || 3150;
 // Importing the course cateory file from the directory\
 const categories = require('./CouseCategory.json')

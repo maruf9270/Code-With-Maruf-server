@@ -1,32 +1,64 @@
 [
     {"id":"01",
      "c_name":"HTML-5",
-     "c_details":"This is Html tutorial"
+     "c_details":"This is Html tutorial",
+     "img":"https://i.ibb.co/XXsNFZH/html-Custom.png"
     },
 
      {"id":"02",
      "c_name":"CSS-3",
-     "c_details":"This is Javascript tutorial"
+     "c_details":"This is Javascript tutorial",
+     "img":"https://i.ibb.co/6JXSJMB/css3-Custom.png"
     },
 
      {"id":"03",
      "c_name":"Javascript",
-     "c_details":"This is Javascript tutorial"
+     "c_details":"This is Javascript tutorial",
+     "img":"https://i.ibb.co/kD5bPfN/js-Custom.png"
     },
 
      {"id":"04",
      "c_name":"TailWInd",
-     "c_details":"This is Tailwind tutorial"
+     "c_details":"This is Tailwind tutorial",
+     "img":"https://i.ibb.co/z6rhYFz/tailwind-Custom.png"
     },
     {
         "id":"05",
         "c_name":"Bootstrap",
-        "c_details":"This is Bootstrap tutorial"
+        "c_details":"This is Bootstrap tutorial",
+        "img":"https://i.ibb.co/hgCx007/bootstrap-Custom.png"
+    },
+    {
+        "id":"06",
+        "c_name":"Firebase",
+        "c_details": "FireBase",
+        "img":"https://i.ibb.co/Qr5gySk/firebasepng-Custom.png"
+    },
+    {
+        "id":"07",
+        "c_name":"MangoDB",
+        "c_details": "This is React tutorial",
+        "img":"https://i.ibb.co/4RbxsVT/mangodb-Custom.png"
+    },
+    {
+        "id":"08",
+        "c_name":"Node",
+        "c_details": "This is React tutorial",
+        "img":"https://i.ibb.co/Nyr9GkG/node-j-g-Custom.jpg"
     },
     {
         "id":"06",
         "c_name":"React",
         "c_details": "This is React tutorial"
+        ,"img":"https://i.ibb.co/3rJCD4T/react-Custom.jpg"
     }
     
 ]
+
+
+
+
+
+
+
+
