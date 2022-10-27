@@ -4,7 +4,7 @@
      "c_details":"Fun fact: all websites use HTML — even this one. It’s a fundamental part of every web developer’s toolkit. HTML provides the content that gives web pages structure, by using elements and tags, you can add text, images, videos, forms, and more. Learning HTML basics is an important first step in your web development journey and an essential skill for front- and back-end developers. Whether you are a novice, hoping to delve into the world of web design or an experienced webmaster keen to improve your skills, we’ve got online tutorials tailored to your web design needs.",
      "c_details_2":"While many guides on the internet attempt to teach HTML using a lot of mind-boggling theory, this tutorial will instead focus on giving you the practical skills to build your first site.The aim is to show you ‘how’ to create your first web page without spending the entire tutorial focusing too much on the “why.”By the end of this tutorial, you will have the know-how to create a basic website and we hope that this will inspire you to delve further into the world of HTML using our follow-on guides.",
      "img":"https://i.ibb.co/ysKghRS/htmlnew-Custom-1.jpg",
-     "b_image":"https://i.ibb.co/4sTJ2W3/html.jpg"
+     "b_image":"https://drive.google.com/uc?export=view&id=1q3-Ccrt7jRgoBAAlGB7mjkD-X2W1hStc"
      
     },
 
@@ -13,7 +13,7 @@
      "c_details":"This course breaks down the fundamentals of CSS into digestible, easy to understand pieces. Over the next few modules, you'll learn how the core aspects of CSS work and how to use them effectively in your projects. Use the menu pane by the Learn CSS logo to navigate the modules.You'll learn CSS fundamentals like the box model, cascade and specificity, flexbox, grid and z-index. And, along with these fundamentals, you'll learn about functions, color types, gradients, logical properties and inheritance to make you a well-rounded front-end developer, ready to take on any user interface.You’ll find learning CSS essential in styling websites. Web developers use it to build on basic HTML and add personality to plain text pages. This course helps you expand your coding foundation and gives you CSS interactive practice to start adding colors and background images or editing layouts so you can create your very own, unique stylized web pages.",
      "c_details_2":"Each module is full of interactive demos and self-assessments for you to test your knowledge. In addition to learning through reading and demos, there is an accompanying podcast episode for each topic as another way to learn and continue expanding your knowledge.This course is created for beginner and advanced CSS developers alike. You can go through the series from start to finish to get a general understanding of CSS from top to bottom, or you can use it as a reference for specific styling subjects. For those new to web development overall, check out the intro to HTML course from MDN to learn all about how to write markup and link your stylesheets.",
      "img":"https://i.ibb.co/GcGPwPq/csnewsre-Custom.jpg",
-     "b_image":"https://i.ibb.co/CvFvLsk/css.jpg"
+     "b_image":"https://drive.google.com/uc?export=view&id=1eePkmA6Pbf2SbNVATK2hdAKyNJLuzVTJ"
     },
 
      {"id":"03",
@@ -21,7 +21,7 @@
      "c_details":"Learn modern JavaScript (ES2015+) from scratch, and practice in an intuitive environment. The challenges are inspired by real-world projects to make sure that you're learning the best practices, one step at a time. Try the first 77 lessons, challenges, projects (first 7 chapters) & flashcards for free. You can upgrade to a Pro account with a one-time payment that gives you access for 5 years.Learn Javascript is suitable for beginner developers who have basic experience in any programming language. Not comfortable with the basics? Then consider Learn Programming which covers the basics.",
      "c_details_2":"This course covers the fundamentals of JavaScript. It is the best way to learn JavaScript in 2022. The entire course was re-written in 2021.The lessons & challenges will guide you through these topics step by step and its project-based approach will help you reinforce these concepts. The course assumes that you are familiar with the basics such as variables, functions, arrays, objects, classes as well as some HTML & CSS experience.",
      "img":"https://i.ibb.co/kD5bPfN/js-Custom.png",
-     "b_image":"https://i.ibb.co/wwDTMsN/js.jpg"
+     "b_image":"https://drive.google.com/uc?export=view&id=1o2vcHnN2-rFSn66SdwGPYPlKdRWt4f0Q"
     },
 
      {"id":"04",
@@ -30,15 +30,16 @@
     "c_details_2":"So if you want a fully custom design, you are back at step 1.There's a middle way. An approach that gives you the freedom to apply your custom design, but in a way that greatly simplifies the CSS, providing you with core functionality without applying heavily opinionated design to your app. This is Tailwind, a utility-first CSS framework for rapidly building custom user interfaces.Design with Tailwind CSS is a series that teaches you how to build fully responsive, professionally designed UIs from scratch using Tailwind CSS. Together we’ll build Workcation, a property rental app loaded with interesting details that will help you master Tailwind in no time.",
     
      "img":"https://i.ibb.co/z6rhYFz/tailwind-Custom.png",
-     "b_image":"https://i.ibb.co/LgLS9R9/Tailwind.jpg"
+     "b_image":"https://drive.google.com/uc?export=view&id=16YvkvuUWxbHGbAayyfkvsvZGZYlaBaPh"
     },
+ 
     {
         "id":"05",
         "c_name":"Bootstrap",
         "c_details":"If you want to quickly create a website without writing tons of CSS from scratch, then Bootstrap 4 might be the framework you’re looking for. In this course, you’ll see how Bootstrap makes it easy to layout and create interactive and responsive sites.",
         "c_details_2":"You’ll learn about Bootstrap’s grid system to construct complex layouts. Then, you’ll style and populate your site using Bootstrap’s utility classes and components. With Bootstrap, HTML, some familiarity with CSS, and JavaScript, you’ll be making websites in no time. A basic understanding of HTML is required to start learning Bootstrap. Some familiarity with how CSS works (CSS Selectors and Visual Rules) would be helpful, but is not required.",
         "img":"https://i.ibb.co/hgCx007/bootstrap-Custom.png",
-        "b_image":"https://i.ibb.co/fNHWCh5/bootstrap.png"
+        "b_image":"https://drive.google.com/uc?export=view&id=13SDTGsbk2DVtUEf49DMipDVGTgQIIPYB"
     },
     {
         "id":"06",
@@ -46,7 +47,7 @@
         "c_details": "In this course, you’ll learn how to use Firebase. Firebase is app development platform that provides developers a variety of tools and a scalable infrastructure to build high quality apps.We’ll begin by showing you how easy it is to read and write almost any data to Firebase. After that, we’ll teach you how to allow users to login, have data associated with them and send them notifications.You’ll learn how to use Firebase’s Security and Rules language to secure and add permissions to your data. Firebase Remote Config gives you the ability to tune and customize your app without having to publish a new version. Finally we’ll give you a brief overview of Firebase Analytics so you can collect data from the start.",
         "c_details_2":"Got extra time this weekend? As a bonus, you will write your own Cloud Function for Firebase that makes chat more fun by adding emojis to FriendlyChat conversations. Cloud Functions for Firebase integrates the Firebase platform by letting you write code that responds to events and invokes functionality exposed by other Firebase features.By the end of this course you will have an Android application that can store and share data between different users in real time as well as authenticate and authorize those users.",
         "img":"https://i.ibb.co/Qr5gySk/firebasepng-Custom.png",
-        "b_image":"https://i.ibb.co/PzfjKXZ/Firebase.png"
+        "b_image":"https://drive.google.com/uc?export=view&id=1g6HZDw30eb_2o_XiXvkzN-7KJM3XgbaE"
     },
     {
         "id":"07",
@@ -54,15 +55,16 @@
         "c_details": "MongoDB is a powerful document-oriented database system, and this course helps you learn MongoDB basics. This MongoDB for beginners course introduces you to it and helps you understand NoSQL and its need in DBMS. You will learn about the SQL and NoSQL features and learn to install MongoDB on your system. CRUD operations are the most significant part of any database, and you will learn about them and their syntax with appropriate code demonstrations. Lastly, you will understand the role of queries and criteria in the database and its operation in MongoDB. Enroll in this MongoDB tutorial for beginners and earn a  certificate.",
         "c_details_2":"MongoDB is an incredibly robust No SQL database, which is hugely popular these days. Considered the hottest data of the tech world, MongoDB training online can power anything from your enterprise infrastructure to your growing personal project. Consequently, there is a burgeoning demand for MongoDB developers. Whether you are a data scientist or building mobile applications, web applications, or any other application, you will have to work with data. At multiple points, you will have to store data, query it right, and minimize the complexities without compromising the performance of the crucial tasks. Broadly, working with MongoDB is not challenging as it is built on the philosophy, which prioritizes efficiency and performance.However, you must know the right drill to do things right. For this, you must look at the best MongoDB tutorials. In addition, the internet has a range of full length courses to learn MongoDB online. So, how do you find one that fits your needs? Well, fret no more! We did our research and have shortlisted some of the best MongoDB courses in consultation with our experts. Let us get started and address these courses one by one.",
         "img":"https://i.ibb.co/4RbxsVT/mangodb-Custom.png",
-        "b_image":"https://i.ibb.co/QMPkCC7/Mangodb.jpg"
+        "b_image":"https://drive.google.com/uc?export=view&id=18GuTOUCVVzOlrkoMFKWo4we9T8eUSro9"
     },
+    
     {
         "id":"08",
         "c_name":"Node",
         "c_details": "JavaScript is one of the most popular programming languages. The powerful Node.js runtime environment has been ranked the technology most commonly used by professional developers. Node.js is an event-driven JavaScript runtime. Node has myriad potential uses for JavaScript development including being a great environment for building efficient network applications.",
         "c_details_2":"This course is a great introduction to the concepts of server-side web development. You’ll learn the different parts that make up the back-end of a website or web application, and you’ll gain familiarity with the Node.js runtime environment. After this course, you’ll be set up to explore popular Node frameworks like Express.js to build powerful applications. A strong foundation in JavaScript is a prerequisite for this course. Previous experience with asynchronous JavaScript and HTML would be helpful but isn’t mandatory",
         "img":"https://i.ibb.co/Nyr9GkG/node-j-g-Custom.jpg",
-        "b_image":"https://i.ibb.co/RNhqqdT/nde.png"
+        "b_image":"https://drive.google.com/uc?export=view&id=1oRtX8Zu1hHD65gNByxYXnAZFXrOlSmVL"
     },
     {
         "id":"09",
@@ -70,11 +72,10 @@
         "c_details": "React (sometimes spelled React.js or ReactJS) is one of the most popular JavaScript libraries to develop powerful, interactive web applications. You’ll learn how to start with React and build up to dynamic user interfaces. You’ll work with React specific concepts like: JSX, components, state, props, hooks, and more. Take this course to gain an edge as a front-end or full-stack web developer.",
         "c_details_2":"Learn modern React from scratch, and practice in an intuitive environment. Throughout this course, you will build an online supermarket shopping app with Stripe integration. To make that possible, you will read short lessons, solve challenges and projects while learning the best practices, one step at a time. Try the first 67 lessons, challenges & flashcards for free. You can upgrade to a Pro account with a one-time payment that gives you access for 5 years."
         ,"img":"https://i.ibb.co/3rJCD4T/react-Custom.jpg",
-        "b_image":"https://i.ibb.co/FqYZdmf/react.png"
+        "b_image":"https://drive.google.com/uc?export=view&id=1kgLeVx0oww1dEwbFeZW1EtxhaqoruC8O"
     }
     
 ]
-
 
 
 

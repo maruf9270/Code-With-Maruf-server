@@ -17,6 +17,12 @@ app.get('/categories',(req,res)=>{
     res.send(categories)
     
 })
+// Getting request for specific course and sending it
+app.get('/:ID',(req,res)=>{
+    const courseID = req.params.ID
+   const found = categories.find(c=>c.id === courseID)
+   res.send(found)
+})
 
 
 
